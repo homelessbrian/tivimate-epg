@@ -653,7 +653,7 @@
   <channel id="dummy-2193462">
     <display-name>Pimp My Ride</display-name>
     <display-name>Pimp My Ride</display-name>
-    <icon src="hhttps://image.tmdb.org/t/p/original/hzmbFYSUw78dNMx48aoKXTdb7Sc.png" />
+    <icon src="https://image.tmdb.org/t/p/original/hzmbFYSUw78dNMx48aoKXTdb7Sc.png" />
   </channel>
   <programme start="20260923000000 +0000" stop="20260923020000 +0000" channel="dummy-1713853">
     <title>Arrested Development</title>
